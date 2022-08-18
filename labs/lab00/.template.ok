@@ -1,6 +1,6 @@
 {
   "name": "Lab 0",
-  "endpoint": "rhodes/cs141/su22/lab00",
+  "endpoint": "<#endpoint#>/lab00",
   "src": [
     "lab00.ipynb",
     "hello_world.py"
