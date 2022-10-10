@@ -1,0 +1,16 @@
+{
+  "name": "Project 5",
+  "endpoint": "<#endpoint#>/project05",
+  "src": [
+    "P5.ipynb",
+    "panda_party.py"
+  ],
+  "tests": {
+      "tests/test*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
