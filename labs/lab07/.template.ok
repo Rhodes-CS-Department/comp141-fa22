@@ -1,0 +1,15 @@
+{
+  "name": "Lab 7",
+  "endpoint": "<#endpoint#>/lab07",
+  "src": [
+    "lab07.ipynb"
+  ],
+  "tests": {
+      
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
